@@ -1,16 +1,16 @@
-## Hi there 👋
-
-<!--
-**gghughunishvili/gghughunishvili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi, I'm Giorgi Ghughunishvili 👋
+    
+    Senior Software Engineer / Tech Lead at Google, specializing in backend architecture, mobile development, and leading high-performing teams to deliver scalable solutions.
+    
+    ### Tech Stack
+    * PHP
+    * Laravel
+    * JavaScript
+    * Swift
+    
+    ### Current Projects
+    * lockbloom (Swift)
+    * entrust (PHP)
+    
+    [GitHub Profile](https://github.com/gghughunishvili)
+    
