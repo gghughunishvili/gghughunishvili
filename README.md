@@ -10,4 +10,4 @@
   * **[entrust](https://github.com/gghughunishvili/entrust)** - PHP / Laravel project
     
 ### 📊 GitHub Stats
-![Giorgi's GitHub stats](https://github-readme-stats.vercel.app/api?username=gghughunishvili&show_icons=true&theme=radical)
+![Giorgi's GitHub stats](https://github-readme-stats-47kus077r-gghughunishvilis-projects.vercel.app/api?username=gghughunishvili&show_icons=true&theme=radical)
